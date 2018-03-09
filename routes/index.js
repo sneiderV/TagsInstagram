@@ -39,46 +39,10 @@ router.get("/getTags/:tag", function (req,res,next) {
     	 	// this.setState({
           	// repos:json.data
           	// });
-});
-
-
+			});
  
-        
 
 
-
-
-
-
-// app.get("/api/user/:user",(req,res)=>
-// {
-// 	console.log("Consultando "+req.params.user);
- //    fetch("https://www.instagram.com/"+req.params.user+"/?__a=1")
-	// 		        	.then((rta)=>{
-	// 					return rta.json();
-	// 					})
-	// 					.then((likes)=>{
-	// 						var arr = likes.user.media.nodes;
-	// 						var count=0;
-	// 						for (var i = arr.length - 1; i >= 0; i--) 
-	// 						{
-	// 							count+=arr[i].likes.count;
-	// 						}
-	// 						var username =likes.user.username; 
-	// 						var fullName =likes.user.full_name;
-	// 						var user={
-
-	// 							count:count, 
-	// 							username:username,
-	// 							fullName:fullName, 
-	// 							profilePic:likes.user.profile_pic_url,
-	// 							profile:"https://www.instagram.com/"+username
-	// 						};
-	// 						res.json(user)
-	// 					}).catch((err)=>res.send("No Existe o es privado "+req.params.user))
-		
-	// });    
-      
 });
 
 /* GET home page. */
