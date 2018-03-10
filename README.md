@@ -8,9 +8,15 @@ Si desea descargar el paquete debe correr los siguientes comandos:
 * En el directorio ./fronend
 >npm i
 
-Pero si desea ver un demo puede dirigirse al siguiente [enlace](https://tagsinsta.herokuapp.com/) 
+Pero si desea ver un demo puede dirigirse al siguiente [enlace](https://tagsinsta.herokuapp.com/).
 
-#### Funcionalidad especial
+### Tecnologías usadas
+* FrontEnd
+React, JS, CSS y HTML.
+* BackEnd
+NodeJS y Express.
+
+### Funcionalidad especial
 No logre cumplir con el objetivo, implemente los métodos que deseaba usar para cumplir la meta, pero 
 tuve un inconveniente con la respuesta que me generaba el back, me enfoque en resolver este problema pero no lo logre.
 
