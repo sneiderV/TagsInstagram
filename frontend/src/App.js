@@ -117,16 +117,18 @@ darData(lista)
 		return (
 			<div className="container card contaColor">
 			<div className="App">
-				<header className="App-header">
-					<h1 className="App-title">Top tags of a tag</h1>
-				</header>
+				<header className="App-header"></header>
 			<div className="container-fluid">	
-					
-				<div className="card">
+				<div></div>
+				<div></div>	
+				<div >
 					<SearchBox searchText={this.searchText.bind(this)}
 							   searchTag={this.searchTag.bind(this)}
 							    />
 				</div>
+				<div></div>
+				<div></div>
+				<div></div>
 				</div>
 
 				<div className="row">	

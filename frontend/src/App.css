@@ -2,18 +2,15 @@
   text-align: center;
 }
 .contaColor{
-  background-image: url(https://thinkmarketingmagazine.com/wp-content/uploads/2016/09/Think-Marketing-Article-Instagram-killing-photo-maps-feature.png);
- background-repeat: repeat-y;
+  background: linear-gradient(left, #BA55D3, pink, lightyellow);
   filter:  alpha(opacity=50);
 }
 .App-header {
-  background-color: #222;
+  background : url(http://style-matters.com/blog/wp-content/uploads/2013/01/Instagram_Logo_Large-300x100.png);
+  background-repeat: no-repeat;
+  background-position: center; 
   height: 80px;
   padding: 30px;
-  color: white;
-  font-family: garamond; 
-  font-style: italic; 
-  font-size: 40;
 }
 
 .App-title {
