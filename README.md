@@ -11,9 +11,9 @@ Si desea descargar el paquete debe correr los siguientes comandos:
 Pero si desea ver un demo puede dirigirse al siguiente [enlace](https://tagsinsta.herokuapp.com/).
 
 ### Tecnologías usadas
-* FrontEnd
+* FrontEnd: 
 React, JS, CSS y HTML.
-* BackEnd
+* BackEnd: 
 NodeJS y Express.
 
 ### Funcionalidad especial
